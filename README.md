@@ -10,7 +10,7 @@ The available backends will be ``Spring Boot``, ``ASP.NET Core`` and ``Node.js``
 
 The available backends will be ``Angular.js`` e ``React.js``.
 
-## Features 🌟
+## Features 📝
 
 - [ ] ``Spring Boot``
 - [x] ``ASP.NET Core``
