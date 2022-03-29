@@ -5,7 +5,9 @@
 ## About 🎯
 
 The objetive of this project is to manage recipes, developed using several different frameworks. The user can perform basic CRUD operations (Create, Read, Update and Delete) of ``recipes`` and ``ingredients``. 
+
 The available backends will be ``Spring Boot``, ``ASP.NET Core`` and ``Node.js``.
+
 The available backends will be ``Angular.js`` e ``React.js``.
 
 ## Features 🌟
