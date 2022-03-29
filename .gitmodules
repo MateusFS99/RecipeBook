@@ -1,0 +1,6 @@
+[submodule "RecipeBook-ASP.NET"]
+	path = RecipeBook-ASP.NET
+	url = https://github.com/MateusFS99/RecipeBook-ASP.NET
+[submodule "RecipeBook-Angular"]
+	path = RecipeBook-Angular
+	url = https://github.com/MateusFS99/RecipeBook-Angular
