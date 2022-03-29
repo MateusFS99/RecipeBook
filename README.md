@@ -1,6 +1,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/VictorGVC/ProjectMultilanguage-Node)](https://github.com/MateusFS99/RecipeBook/commits/main)
 
-<h1 align="center">Multilanguage App</h1>
+<h1 align="center">Recipe Book App</h1>
 
 ## About 🎯
 
