@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/VictorGVC/ProjectMultilanguage-Node)](https://github.com/MateusFS99/RecipeBook/commits/main)
+[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/RecipeBook)](https://github.com/MateusFS99/RecipeBook/commits/main)
 
 <h1 align="center">Recipe Book App</h1>
 
