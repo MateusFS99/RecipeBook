@@ -1,7 +1,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/RecipeBook)](https://github.com/MateusFS99/RecipeBook/commits/main)
 
 <h1 align="center">📖 Recipe Book App 📖</h1>
-
 ## About 🎯
 
 The objetive of this project is to manage recipes, developed using several different frameworks. The user can perform basic CRUD operations (Create, Read, Update and Delete) of ``recipes`` and ``ingredients``. 
