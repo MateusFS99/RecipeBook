@@ -1,6 +1,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/RecipeBook)](https://github.com/MateusFS99/RecipeBook/commits/main)
 
-<h1 align="center">Recipe Book App</h1>
+<h1 align="center">📖 Recipe Book App 📖</h1>
 
 ## About 🎯
 
