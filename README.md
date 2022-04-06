@@ -10,14 +10,6 @@ The available backends will be ``Spring Boot``, ``ASP.NET Core`` and ``Node.js``
 
 The available backends will be ``Angular.js`` e ``React.js``.
 
-## Features 📝
-
-- [ ] ``Spring Boot``
-- [x] ``ASP.NET Core``
-- [ ] ``Node.js``
-- [x] ``Angular.js``
-- [ ] ``React.js``
-
 ## Technologies 💻
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -25,6 +17,14 @@ The available backends will be ``Angular.js`` e ``React.js``.
 ![DOTNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Features 📝
+
+- [ ] ``Spring Boot``
+- [x] ``ASP.NET Core``
+- [ ] ``Node.js``
+- [x] ``Angular.js``
+- [ ] ``React.js``
 
 ## License ®️
 
