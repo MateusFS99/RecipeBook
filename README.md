@@ -1,6 +1,10 @@
 [![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/RecipeBook)](https://github.com/MateusFS99/RecipeBook/commits/main)
 
-<h1 align="center">📖 Recipe Book App 📖</h1>
+<h1 align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/3565/3565418.png" width="32px" height="32px"> 
+    Recipe Book App 
+    <img src="https://cdn-icons-png.flaticon.com/512/3565/3565418.png" width="32px" height="32px">
+</h1>
 
 ## About 🎯
 
