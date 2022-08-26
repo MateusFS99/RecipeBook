@@ -10,7 +10,7 @@ The objetive of this project is to manage recipes, developed using several diffe
 
 The available backends will be ``Spring Boot``, ``ASP.NET Core`` and ``Node.js``.
 
-The available backends will be ``Angular.js`` e ``React.js``.
+The available frontends will be ``Angular.js`` and ``React.js``.
 
 ## Technologies 💻
 
